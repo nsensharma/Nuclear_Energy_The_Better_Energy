@@ -1,0 +1,32 @@
+After signing up at GitHub:
+{Starting up}
+On Terminal
+
+>sudo apt-get install git
+
+>git config --global user.name nirupama
+>git config --global user.email nsenshar@nd.edu		{Setting up username and user email}
+
+>git commit -m "Comment"
+>git status
+>git push -u origin master
+
+To add files to GitHub:
+
+First makes all necessary changes then go to the relevant directory in terminal
+
+>git status		{All changes are shown in red}
+
+>git add .		{To add everything in diectory. Instead of period, can also put specific file name in ""}
+
+>git commit -m "changed images"
+
+>git push		{Uploads on server}
+
+
+
+userid – nsensharma
+password – AALOK_niru1991
+
+
+git passphrase - thisisniru
